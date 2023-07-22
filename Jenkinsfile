@@ -10,6 +10,7 @@ pipeline {
             steps {
                 sh 'mvn validate'
 		echo I am testing my change
+		echo I am testing one more change
             }
         }
        stage('compile') { 

@@ -9,6 +9,7 @@ pipeline {
         stage('validate') { 
             steps {
                 sh 'mvn validate'
+		echo I am testing my change
             }
         }
        stage('compile') { 

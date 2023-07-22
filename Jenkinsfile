@@ -11,6 +11,7 @@ pipeline {
                 sh 'mvn validate'
 		echo I am testing my change
 		echo I am testing one more change
+		echo I am testing fetc functionality
             }
         }
        stage('compile') { 

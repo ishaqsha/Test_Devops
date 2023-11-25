@@ -41,7 +41,7 @@
         <distributionManagement>
   		<repository>
     		<id>central</id>
-    		<name>Maven_Sample</name>
+    		<name>ec2-13-239-65-21.ap-southeast-2.compute.amazonaws.com</name>
     		<url>http://3.26.205.157:8081/artifactory/Maven_Sample/</url>
   		</repository>
 	</distributionManagement>

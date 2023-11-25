@@ -40,9 +40,9 @@
 
         <distributionManagement>
   		<repository>
-    		<id>java-devops-Java-devops</id>
-    		<name>java-devops-Java-devops</name>
-    		<url>https://java-devops-565381047833.d.codeartifact.ap-southeast-2.amazonaws.com/maven/Java-devops/</url>
+    		<id>central</id>
+    		<name>Maven_Sample</name>
+    		<url>http://3.26.205.157:8081/artifactory/Maven_Sample/</url>
   		</repository>
 	</distributionManagement>
 	<dependencies>
